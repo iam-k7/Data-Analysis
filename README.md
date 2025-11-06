@@ -7,7 +7,7 @@ The goal is to transform raw data into meaningful business insights through inte
 
 The dashboard provides an overview of key performance metrics, trends, and comparisons across multiple dimensions, helping decision-makers identify actionable insights.
 
-🔗 [**Banking Analytics Dashboard:**](https://app.powerbi.com/view?r=eyJrIjoiZjY3NmRjMzgtYTdjNi00Y2M3LWJkYTMtYjI5ODMzY2Y0NDAzIiwidCI6Ijc5MmQ0ZDM4LTA5YTYtNDEwYS1iN2JhLWI2YTg2ZTI4MDJhNyJ9)
+🔗 [**Banking Analytics Dashboard**](https://app.powerbi.com/view?r=eyJrIjoiZjY3NmRjMzgtYTdjNi00Y2M3LWJkYTMtYjI5ODMzY2Y0NDAzIiwidCI6Ijc5MmQ0ZDM4LTA5YTYtNDEwYS1iN2JhLWI2YTg2ZTI4MDJhNyJ9)
 
 ---
 
@@ -16,7 +16,7 @@ The dashboard provides an overview of key performance metrics, trends, and compa
 ```
 ├── data/                       # Raw and processed data files
 ├── notebooks/
-│   └── banking.ipynb           # Data analysis notebook
+│   └── banking-EDA.ipynb           # Data analysis notebook
 ├── dashboard/
 │   └── powerbi_dashboard.pbix  # Power BI report file
 ├── README.md                   # Project documentation
@@ -69,14 +69,22 @@ The dashboard provides an overview of key performance metrics, trends, and compa
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/your-repo-name.git
+   git clone https://github.com/iam-k7/Data-Analysis.git
    ```
-2. Open the Jupyter Notebook (`Untitled.ipynb`) to view data cleaning and analysis steps.
-3. Open the Power BI `.pbix` file or visit the live dashboard link.
+2. Open the Jupyter Notebook (`banking-EDA.ipynb`) to view data cleaning and analysis steps.
+3. Open the Power BI `banking-EDA.pbix` file or visit the live dashboard link.
 4. Explore and interact with visuals.
 
 ---
 
+## Screenshot / Demos
+
+![Alt Text](https://github.com/iam-k7/Data-Analysis/blob/main/Snapshot%20of%20Dashboard.png)
+
+
 [📧 Email](kesavanakash3@gmail.com)
 [💼 LinkedIn](https://www.linkedin.com/in/7kesavan/)
+
+
+
 
