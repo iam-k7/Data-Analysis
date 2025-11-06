@@ -8,24 +8,23 @@ The goal is to transform raw data into meaningful business insights through inte
 The dashboard provides an overview of key performance metrics, trends, and comparisons across multiple dimensions, helping decision-makers identify actionable insights.
 
 🔗 **Live Dashboard:**
-</a href = "(https://app.powerbi.com/view?r=eyJrIjoiZjY3NmRjMzgtYTdjNi00Y2M3LWJkYTMtYjI5ODMzY2Y0NDAzIiwidCI6Ijc5MmQ0ZDM4LTA5YTYtNDEwYS1iN2JhLWI2YTg2ZTI4MDJhNyJ9)"> Banking Analytics Dashboard </a>
+
+</a href = "https://app.powerbi.com/view?r=eyJrIjoiZjY3NmRjMzgtYTdjNi00Y2M3LWJkYTMtYjI5ODMzY2Y0NDAzIiwidCI6Ijc5MmQ0ZDM4LTA5YTYtNDEwYS1iN2JhLWI2YTg2ZTI4MDJhNyJ9"> Banking Analytics Dashboard </a>
 
 ---
 
 ## 📂 Project Structure
 
 ```
-├── data/                     # Raw and processed data files
+├── data/                       # Raw and processed data files
 ├── notebooks/
-│   └── Untitled.ipynb        # Data analysis notebook
+│   └── banking.ipynb           # Data analysis notebook
 ├── dashboard/
-│   └── powerbi_dashboard.pbix # Power BI report file
-├── README.md                 # Project documentation
+│   └── powerbi_dashboard.pbix  # Power BI report file
+├── README.md                   # Project documentation
 ```
 
 ---
-
-## 📬 Author
 
 ## 🧰 Tools & Technologies
 
@@ -80,8 +79,7 @@ The dashboard provides an overview of key performance metrics, trends, and compa
 
 ---
 
-**Kesavan Kesava**
-📧 Email: [[your-email@example.com](mailto:your-email@example.com)]
-💼 LinkedIn: [your LinkedIn profile link]
-💻 GitHub: [your GitHub profile link]
+</a href = "kesavanakash3@gmail.com">📧 Email </a>
+</a href = "https://www.linkedin.com/in/7kesavan/">💼 LinkedIn </a>
+</a href = "https://github.com/iam-k7">💻 GitHub </a>
 
