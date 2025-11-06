@@ -75,7 +75,7 @@ The dashboard provides an overview of key performance metrics, trends, and compa
 
 ---
 
-## Screenshot / Demos
+## 📸Screenshot / Demos
 
 ![Alt Text](https://github.com/iam-k7/Data-Analysis/blob/main/Snapshot%20of%20Dashboard.png)
 
