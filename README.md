@@ -1,5 +1,3 @@
-# 🧠 Data Analytics Project – Power BI Dashboard
-
 ## 📊 Project Overview
 
 This project presents a complete **data analytics and visualization solution** developed using **Power BI**.
